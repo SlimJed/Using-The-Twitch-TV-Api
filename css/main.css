@@ -1,0 +1,11 @@
+.logo {
+  width : 50px;
+}
+#maker a {
+  color:inherit;
+  text-decoration:none;
+}
+a:hover, a {
+  color: inherit;
+  text-decoration:none;
+}
